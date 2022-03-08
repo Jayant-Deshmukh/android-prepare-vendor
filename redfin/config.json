@@ -997,6 +997,8 @@
     "lib/liblocation_api.so",
     "lib/libloc_core.so",
     "lib/libmedia_ecoservice.so",
+    "lib/libmediautils_vendor.so",
+    "lib/libmemunreachable.so",
     "lib/libnbaio_mono.so",
     "lib/libopus.so",
     "lib/libpixelhealth.so",
