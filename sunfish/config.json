@@ -20,7 +20,7 @@
   "BoardConfigVendorMk": "sunfish/BoardConfigVendorPartial.mk",
   "DeviceVendorMk": "sunfish/proprietary/device-vendor.mk",
   "overlays-dir": "",
-  "rro-overlays": ["CarrierConfigOverlay"],
+  "rro-overlays": [],
   "product-bytecode": [],
   "product-other": [
     "product/etc/apns-conf.xml",
